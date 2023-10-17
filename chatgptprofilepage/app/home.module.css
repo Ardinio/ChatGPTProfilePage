@@ -1,0 +1,27 @@
+/* home.module.css */
+.title {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.myParagraph {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.myLink {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.myLink:hover {
+    background-color: #0056b3;
+}
